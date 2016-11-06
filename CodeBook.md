@@ -40,7 +40,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 *mergedSub: combined data frame of subject_train and subject_test
 
-After merging the tables, columns' names of all the tables all created.
+After merging the tables, columns' names of all the tables are created or renamed.
 
 ###2.Extracts only the measurements on the mean and standard deviation for each measurement.
 
